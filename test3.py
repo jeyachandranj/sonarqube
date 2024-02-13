@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = '44567894333567890097997'
+API_KEY = '445678943335678900979979-8756'
 
 def make_api_request(endpoint, params=None):
     try:
